@@ -7,3 +7,5 @@ for more info and enquiries contact
 IT L300 Group 3 project
 username: group3
 password: gr33
+
+Unzip the EverydayBankManagementSystem.zip  for the setup (Inside the Debug folder)
